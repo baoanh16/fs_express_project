@@ -1,0 +1,12 @@
+extends layout
+
+block content
+	.container
+		.row
+			- for(x=0;x<dataProduct.length;x++)
+				.col-md-4
+					figure
+						img(src=dataProduct[x].img, alt="").img-fluid.mb-2
+						figcaption
+							h6= dataProduct[x].name
+							small= dataProduct[x].price

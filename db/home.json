@@ -1,0 +1,26 @@
+{
+	"data":{
+		"title":"Bảo",
+		"desc":"Wakanda forever",
+		"img":"https://www.google.com/logos/doodles/2017/vietnam-national-day-2017-4796763729821696-2x.png",
+		"menu":[
+			"Java",
+			"Nodejs",
+			"PHP"
+		],
+		"news":[
+			{
+				"name":"Ngày của núi 2017",
+				"content":"Mountain climbing as a means of peacekeeping? It’s what Japanese lawmakers envisioned as they made Mountain Day the country’s 16th national holiday. "
+			},
+			{
+				"name":"40th Anniversary of Film 'Office Romance'",
+				"content":"Romance is in the air! Today marks the 40th anniversary of Office Romance, the hit 1977 film that brilliantly blends romantic drama with screwball comedy. Fifty-eight million people (nearly half the population in 1977) saw Office Romance upon its Soviet Era release. Praised for its depiction of everyday life in Soviet society, the film is still celebrated for its unconventional love story, talented acting, and wistful humor."
+			},
+			{
+				"name":"Kỷ niệm lần thứ 115 ngày sinh của Percy Julian",
+				"content":"If you are intrigued by today's doodle on the U.S. Google homepage, celebrating organic chemist, Dr. Percy Julian, I can provide no better recommendation than to watch the PBS documentary, Forgotten Genius, illustrating both his personal life and life's work."
+			}
+		]
+	}
+}

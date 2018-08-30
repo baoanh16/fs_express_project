@@ -1,0 +1,23 @@
+{
+	"data":{
+		"products":[
+			{
+				"name":"Deadpool Vol. 1: Secret Invasion",
+				"price":"8.99$",
+				"img":"https://images-na.ssl-images-amazon.com/images/I/51Iy98JcD-L._UX300_PJku-sticker-v7,TopRight,0,-50_OU01__BG0,0,0,0_FMpng_AC_UL200_SR200,200_.jpg"
+			},
+			{
+				"name":"Avengers vs. Thanos",
+				"price":"7.99$",
+				"img":"https://images-na.ssl-images-amazon.com/images/I/61YopCVk0QL._UX300_PJku-sticker-v7,TopRight,0,-50_OU01__BG0,0,0,0_FMpng_AC_UL200_SR200,200_.jpg"
+			},
+			{
+				"name":"Ms. Marvel Vol. 1: No Normal (Ms. Marvel Series)",
+				"price":"8.99$",
+				"img":"https://images-na.ssl-images-amazon.com/images/I/51E1eszqrUL._UX300_PJku-sticker-v7,TopRight,0,-50_OU01__BG0,0,0,0_FMpng_AC_UL200_SR200,200_.jpg"
+			}
+	]
+		
+	}
+
+}

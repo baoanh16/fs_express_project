@@ -1,8 +1,22 @@
 extends layout
 
 block content
-	h1= title
+	h1= dataBao.title
 	figure
-		img(src="./img/logo.png", alt="")
-	p Welcome to #{title}
-	
+		img(src=dataBao.img, alt="",width="280px")
+	p= dataBao.desc
+	ul
+		- for(x=0;x<dataBao.menu.length;x++)
+			li
+				if x==1
+					a(href="javascript:void(0)") #{dataBao.menu[x]} 123
+				else
+					a(href="javascript:void(0)") #{dataBao.menu[x]}
+
+
+	.row
+		- for(x=0;x<dataBao.news.length;x++)
+			.col-lg-4
+				h2=dataBao.news[x].name
+				p=dataBao.news[x].content
+
